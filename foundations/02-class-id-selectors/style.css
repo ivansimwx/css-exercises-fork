@@ -1,0 +1,23 @@
+/* Exercise 2 style.css */
+
+.odd {
+    background-color: rgb(223,128,128);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: #0066ff;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+  
+  
+#four {
+    background-color: #71eb47;
+    font-weight: bold;
+    font-size: 24px;
+}
+  
